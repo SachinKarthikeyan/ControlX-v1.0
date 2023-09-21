@@ -6,13 +6,13 @@ ControlX is a Python project designed to transform your controller into a mouse 
 **Features**
 ---------------
 
-Cursor Control: ControlX allows you to use your controller's joystick to control the mouse cursor on your computer screen, offering an intuitive and engaging navigation experience.
+'Cursor Control': ControlX allows you to use your controller's joystick to control the mouse cursor on your computer screen, offering an intuitive and engaging navigation experience.
 
-Mouse Clicks: With ControlX, you can perform mouse clicks seamlessly using the buttons on your controller. This feature enhances your ability to interact with applications and content.
+'Mouse Clicks': With ControlX, you can perform mouse clicks seamlessly using the buttons on your controller. This feature enhances your ability to interact with applications and content.
 
-Smooth Scrolling: The project incorporates smooth scrolling functionality using the controller's D-pad, enabling you to scroll through content effortlessly.
+'Smooth Scrolling': The project incorporates smooth scrolling functionality using the controller's D-pad, enabling you to scroll through content effortlessly.
 
-Exit Functionality: By pressing the right trigger on the controller, you can conveniently exit the program, terminating the controller's mouse emulation.
+'Exit Functionality': By pressing the right trigger on the controller, you can conveniently exit the program, terminating the controller's mouse emulation.
 
 **Known Issue and Current Status**
 -----------------------------------
